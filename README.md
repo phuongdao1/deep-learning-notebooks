@@ -8,6 +8,6 @@ Here are a couple of deep learning projects that I have implemented. The impleme
 
 + English to French translator (language-translation) based on learning around 140k translated sentences : This is based on Udacity Deep Learning assignment utilizing RNN seq2seq model.  
 
-+ Sentiment analysis using RNN (sentiment-rnn): implementing two layers RNN model for predicting the sentiment of reviews.
++ Sentiment analysis using RNN (sentiment-rnn): implementing bidirectional RNN model for predicting the sentiment of reviews.
 
 
